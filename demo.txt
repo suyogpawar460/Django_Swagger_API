@@ -1,2 +1,2 @@
 # info
-This is feature branch of project which will be used for development of future requirements.
+This is feature branch (Develop Branch) of project which will be used for development of future requirements.
